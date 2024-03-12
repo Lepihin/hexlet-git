@@ -1,4 +1,4 @@
-access_log
+access.log
 node_modules/
 /coverage/
 /db/*.sqlite3
